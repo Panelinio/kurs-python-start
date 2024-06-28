@@ -83,7 +83,7 @@ Aby nastepnie w konsoli wprowadzić:
 `python C:\Users\kacper.twardowski\dev\kurs-python-start\2\hello2.py`
 
 lub: 
-`python .\dev\kurs-python-start\2\hello2.py`
+`python .\dev\kurs-python-start\2\hello2.py` (ponieważ w konsoli znajdujemy się w katalogu `C:\Users\kacper.twardowski`)
 
 ![Skrypt](./img/ss10.png)
 ## #3 - Napisy
