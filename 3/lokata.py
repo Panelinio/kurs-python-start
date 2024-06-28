@@ -1,0 +1,5 @@
+stan = float(input("Obliczmy Twoją lokatę :D\nIle masz na koncie?\n"))
+stopa = float(input("Ile wynosi Twoje RRSO?\n"))
+czas = int(input("Na ile lat chcesz założyć lokatę?"))
+wynik = stan*(1+stopa*czas)
+print("Twoje {}zł przez {} lata na lokacie {}% wyniesie {}".format(stan, czas, stopa, wynik))

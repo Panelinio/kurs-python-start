@@ -128,9 +128,32 @@ Zapoznanie się z formatowaniem znaków (float, double, long). Jak się okazuje 
 Formatowanie tekstu starym i nowym sposobem:
 ![Format](./img/ss11.png)
 
-![Format2](./img/ss12.png)
+![Format](./img/ss12.png)
 
+W nowym sposobie możemy w klamrze zawrzeć modyfikator - wskazujemy jak tekst ma być formatowany
 
+```python
+>>> print("Rekord świata na 100m to {:.2f} ustanowił go {}".format(9.5877, 'Usain Bolt'))
+```
+Formatowanie tabelki z kursu dwoma sposobami:
+![Format](./img/ss13.png)
+
+* Stary sposób - nadmiar wolnych znaków = wstawianie spacji od lewej strony
+* Nowy sposób - nadmiar wolnych znaków = wstawianie spacji od prawej strony
+
+W starym sposobie mozna to zmienić - wystarczy wprowadzić znak minusa do modyfikatorów.
+
+W nowym sposobie można zamieniać miejscami formaty:
+```python
+"{} ma {}".format("Ala", "kota")
+"{1} ma {0}".format("Ala", "kota")
+```
+
+Miejsca można powtarzać i ustawiać dowolnie
+
+Pora na kolejne zadania - konwerter jednostek i lokata :D
+
+Szczerze to nie odnajduję się w lokatach - zapożyczyłem więc wynik z odpowiedzi.
 ## #4 - Typy i zmienne
 
 
