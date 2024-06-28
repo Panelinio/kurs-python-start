@@ -32,5 +32,5 @@ Można też przypisywać zmienne w konsoli. I mamy też pierwsze zadanie, kalkul
 
 No to mamy pierwsze problemy - nie przetestowałem wpierw potęgowania, co sprawiło mi problemy jak je zaimplementować. I dane źle podałem :/
 
-![BMI2](.img/ss3.png)
+![BMI2](./img/ss3.png)
 
