@@ -11,22 +11,16 @@ Prosty skrypt z printem i inputem :D
 ## #1 - Konsola
 TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 
-** – znak potęgowania
-
-/ – znak dzielenia
-
-% – znak dzielenia modulo
+`** – znak potęgowania`
+`/ – znak dzielenia`
+`% – znak dzielenia modulo`
 
 Widocznie w konsoli Python sam dobiera komendy... przynajmniej do tych prostych.
 Ale jak jednak wpiszemy komendy to output będzie bez cudzysłowów.
 
 
-\n	znak nowej linii
-
-\t	dodanie tabulacji
-
-\’	apostrof
-
-\”	cudzysłów
-
-\\	ukośnik
+`\n	znak nowej linii`
+`\t	dodanie tabulacji`
+`\’	apostrof`
+`\”	cudzysłów`
+`\\	ukośnik`
