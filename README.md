@@ -128,7 +128,7 @@ Zapoznanie się z formatowaniem znaków (float, double, long). Jak się okazuje 
 Formatowanie tekstu starym i nowym sposobem:
 ![Format](./img/ss11.png)
 
-![Format](./img/ss12.png)
+![Format2](./img/ss12.png)
 
 
 ## #4 - Typy i zmienne
