@@ -123,6 +123,12 @@ wiek = float(input("Podaj swój wiek: "))
 print("Twoje zapotrzebowanie kaloryczne wynosi:",((10*waga+6.25*wzrost-5*wiek+5)*1.6))
 ```
 ## #3 - Napisy
+Zapoznanie się z formatowaniem znaków (float, double, long). Jak się okazuje możemy wybrać do ilu miejsc po przecinku ma się liczba pokazać - interpreter sam klasyfikuje format.
+
+Formatowanie tekstu starym i nowym sposobem:
+![Format](./img/ss11.png)
+
+![Format](./img/ss12.png)
 
 
 ## #4 - Typy i zmienne
