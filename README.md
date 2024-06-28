@@ -43,3 +43,9 @@ Chyba czegoś nie zrozumiałem... Wpisałem zatem:
 ```python
 print("Twoje BMI jest równe:",78/1.78**2)
 ```
+
+Czas na zadanie 2 - zapotrzebowanie kaloryczne.
+
+![PPM](./img/ss5.png)
+
+Miałem małę problemy z zadaniem tylko dlatego, że wpisywałem 6,25 zamiast 6.25 - nauczka na przyszłość :D
