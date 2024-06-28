@@ -5,13 +5,10 @@
 Tutaj wpisuję swoje przemyślenia dotyczące kursu
 
 
-#0 - Start
-
+# #0 - Start
 Prosty skrypt z printem i inputem :D
 
-
-#1 - Konsola
-
+# #1 - Konsola
 TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 
 ** – znak potęgowania
