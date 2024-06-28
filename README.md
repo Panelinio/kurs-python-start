@@ -5,10 +5,10 @@
 Tutaj wpisuję swoje przemyślenia dotyczące kursu
 
 
-# #0 - Start
+## #0 - Start
 Prosty skrypt z printem i inputem :D
 
-# #1 - Konsola
+## #1 - Konsola
 TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 
 ** – znak potęgowania
@@ -18,7 +18,6 @@ TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 % – znak dzielenia modulo
 
 Widocznie w konsoli Python sam dobiera komendy... przynajmniej do tych prostych.
-
 Ale jak jednak wpiszemy komendy to output będzie bez cudzysłowów.
 
 
