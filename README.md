@@ -1,9 +1,15 @@
 # Python: Start
  Darmowy kurs pythona przygotowany przez Ritę Łyczywek. Kurs można znaleźć na stronie [flynerd.pl](https://www.flynerd.pl/2016/12/python-start.html)
 
-## Notatki
-Tutaj wpisuję swoje przemyślenia dotyczące kursu
-
+## Lekcje
+* [#0 - Start](#0---start)
+* [#1 - Konsola](#1---konsola)
+* [#2 - Co mi powiesz?](#2---co-mi-powiesz)
+* [#3 - Napisy](#3---napisy)
+* [#4 - Typy i zmienne](#4---typy-i-zmienne)
+* [#5 - Edytujemy napisy](#5---edytujemy-napisy)
+* [#6 - Instrukcje warunkowe](#6---instrukcje-warunkowe)
+* [#7 - Pętla FOR](#7---pętla-for)
 
 ## #0 - Start
 Prosty skrypt z printem i inputem :D
@@ -49,3 +55,29 @@ Czas na zadanie 2 - zapotrzebowanie kaloryczne.
 ![PPM](./img/ss5.png)
 
 Miałem małę problemy z zadaniem tylko dlatego, że wpisywałem 6,25 zamiast 6.25 - nauczka na przyszłość :D
+
+No i zadanie wykonane poprawnie :D Odpowiedź od autorki znajduje się [tutaj](https://github.com/ritaly/python-1-zabawy-w-konsoli/blob/master/Odpowiedzi/2.py). 
+Tak samo jak z wpisaniem BMI w jednej linii :D
+
+A, jeszcze dla siebie miałem... no to szybko.
+
+![PPM2](./img/ss6.png)
+
+## #2 - "Co mi powiesz?"
+Poznawanie funkcji ("coś ma swoją funkcje – tzn, że spełnia określone zadanie").
+* funkcja – to fragment kodu, który wykonuje jakąś sekwencje poleceń. Może przyjmować argumenty.
+* argumenty – dane niezbędne do wykonania funkcji
+
+## #3 - Napisy
+
+
+## #4 - Typy i zmienne
+
+
+## #5 - Edytujemy napisy
+
+
+## #6 - Instrukcje warunkowe
+
+
+## #7 - Pętla FOR
