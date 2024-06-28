@@ -69,9 +69,11 @@ Poznawanie funkcji ("coś ma swoją funkcje – tzn, że spełnia określone zad
 * argumenty – dane niezbędne do wykonania funkcji
 
 ![Funkcje](./img/ss7.png)
+
 ![Herbata](./img/ss8.png)
 
 Poznałem również użycie float()
+
 ![Float](./img/ss9.png)
 
 Po stworzeniu kolejnego pliku .py pokazane jest jak go otworzyć z poziomu konsoli. Potrzebujemy zatem ścieżki:
