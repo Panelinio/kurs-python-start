@@ -34,3 +34,12 @@ No to mamy pierwsze problemy - nie przetestowałem wpierw potęgowania, co spraw
 
 ![BMI2](./img/ss3.png)
 
+Teraz zadanie aby to napisać w jednej linii. Ciekawie.
+
+![BMI3](./img/ss4.png)
+
+Chyba czegoś nie zrozumiałem... Wpisałem zatem:
+
+```python
+print("Twoje BMI jest równe:",78/1.78**2)
+```
