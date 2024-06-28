@@ -25,3 +25,12 @@ Ale jak jednak wpiszemy komendy to output będzie bez cudzysłowów.
 `\\	ukośnik`
 
 ![Konsola](./img/ss1.png)
+
+Można też przypisywać zmienne w konsoli. I mamy też pierwsze zadanie, kalkulator BMI :D
+
+![BMI](./img/ss2.png)
+
+No to mamy pierwsze problemy - nie przetestowałem wpierw potęgowania, co sprawiło mi problemy jak je zaimplementować. I dane źle podałem :/
+
+![BMI2](.img/ss3.png)
+
