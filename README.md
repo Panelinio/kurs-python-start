@@ -82,8 +82,7 @@ Po stworzeniu kolejnego pliku .py pokazane jest jak go otworzyć z poziomu konso
 Aby nastepnie w konsoli wprowadzić:
 `python C:\Users\kacper.twardowski\dev\kurs-python-start\2\hello2.py`
 
-lub
-
+lub: 
 `python .\dev\kurs-python-start\2\hello2.py`
 
 ![Skrypt](./img/ss10.png)
