@@ -72,7 +72,7 @@ Poznawanie funkcji ("coś ma swoją funkcje – tzn, że spełnia określone zad
 
 ![Herbata](./img/ss8.png)
 
-Poznałem również użycie float()
+Poznałem również użycie float(input())
 
 ![Float](./img/ss9.png)
 
@@ -88,6 +88,40 @@ lub:
 (ponieważ w konsoli znajdujemy się w katalogu `C:\Users\kacper.twardowski`)
 
 ![Skrypt](./img/ss10.png)
+
+Pora na kolejne zadanie :D
+```python
+print("Hej! Jak się nazywasz?")
+imie = input()
+print("Witaj",imie+"!\nIle masz lat?")
+wiek = input()
+print("Młodo wyglądasz :D\nWiesz jaki jest peron z Harrego Potter'a?")
+peron = input()
+print("Super :D Ale niestety, mając",wiek,"lat nie możesz wejść na peron",peron)
+```
+Spróbujemy stworzyć własny kod :D
+```python
+print("Siemanko :D Jak Cię zwą?")
+imie = input()
+print("Uszanowanie",imie+"!\nCzy gdybyś miał szansę to czy chciałbyś zostać Wiedźminem?")
+odp = input()
+print("Moim zdaniem Wiedźmin zwany",imie,"byłby nieposkromionym wojownikiem :D")
+```
+
+I teraz jako zadania trzeba przerobić kalkulator bmi i program do obliczenia zapotrzebowanie kalorii :D
+```python
+print("Witaj w kalkulatorze BMI :D")
+waga = float(input("Podaj swoją wagę (kg): "))
+wzrost = float(input("Podaj swój wzrost (m): "))
+print("Twoje BMI wynosi:",waga/wzrost**2)
+```
+```python
+print("Witaj w programie obliczającym zapotrzebowanie kaloryczne dla mężczyzn uprawiających sport kilka razy w tygodniu :D")
+waga = float(input("Podaj swoją wagę (kg): "))
+wzrost = float(input("Podaj swoją wagę (cm): "))
+wiek = float(input("Podaj swój wiek: "))
+print("Twoje zapotrzebowanie kaloryczne wynosi:",((10*waga+6.25*wzrost-5*wiek+5)*1.6))
+```
 ## #3 - Napisy
 
 

@@ -1,0 +1,5 @@
+print("Witaj w programie obliczającym zapotrzebowanie kaloryczne dla mężczyzn uprawiających sport kilka razy w tygodniu :D")
+waga = float(input("Podaj swoją wagę (kg): "))
+wzrost = float(input("Podaj swoją wagę (cm): "))
+wiek = float(input("Podaj swój wiek: "))
+print("Twoje zapotrzebowanie kaloryczne wynosi:",((10*waga+6.25*wzrost-5*wiek+5)*1.6))
