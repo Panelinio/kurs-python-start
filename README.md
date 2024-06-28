@@ -18,9 +18,10 @@ TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 Widocznie w konsoli Python sam dobiera komendy... przynajmniej do tych prostych.
 Ale jak jednak wpiszemy komendy to output będzie bez cudzysłowów.
 
-
 `\n	znak nowej linii`
 `\t	dodanie tabulacji`
 `\’	apostrof`
 `\”	cudzysłów`
 `\\	ukośnik`
+
+![Konsola](./img/ss1.png)
