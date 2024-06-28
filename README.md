@@ -156,7 +156,18 @@ Pora na kolejne zadania - konwerter jednostek i lokata :D
 
 Szczerze to nie odnajduję się w lokatach - zapożyczyłem więc wynik z odpowiedzi.
 ## #4 - Typy i zmienne
+Pora na poznanie typów w pythonie :D
 
+I już coś wiem - wiele razy pojawiał mi się error o "tuplach". Teraz wiem, że to są krotki :D Ale co to znaczy?
+
+Cudzysłów potrójny - używany do wielolinijkowych tekstów
+
+![Cudzysłów](./img/ss14.png)
+
+Tab+Enter przechodzi do następnej linijki w konsoli :D
+
+* Stringi są niemutowalne = niezmienne.
+* Stringi mogą być raw = bez obsługi znaków specjalnych `txt = r"Nowe linie zapisujemy jako \n a tabulatory za pomocą \t"`
 
 ## #5 - Edytujemy napisy
 
