@@ -24,11 +24,11 @@ TO PYTHON OD RAZU MOŻE BYĆ KALKULATOREM? :O
 Widocznie w konsoli Python sam dobiera komendy... przynajmniej do tych prostych.
 Ale jak jednak wpiszemy komendy to output będzie bez cudzysłowów.
 
-`\n	znak nowej linii`
-`\t	dodanie tabulacji`
-`\’	apostrof`
-`\”	cudzysłów`
-`\\	ukośnik`
+`\n - znak nowej linii`
+`\t - dodanie tabulacji`
+`\’ - apostrof`
+`\” - cudzysłów`
+`\\ - ukośnik`
 
 ![Konsola](./img/ss1.png)
 
@@ -67,6 +67,9 @@ A, jeszcze dla siebie miałem... no to szybko.
 Poznawanie funkcji ("coś ma swoją funkcje – tzn, że spełnia określone zadanie").
 * funkcja – to fragment kodu, który wykonuje jakąś sekwencje poleceń. Może przyjmować argumenty.
 * argumenty – dane niezbędne do wykonania funkcji
+
+![Funkcje](./img/ss7.png)
+![Herbata](./img/ss8.png)
 
 ## #3 - Napisy
 
