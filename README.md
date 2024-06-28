@@ -136,6 +136,7 @@ W nowym sposobie możemy w klamrze zawrzeć modyfikator - wskazujemy jak tekst m
 >>> print("Rekord świata na 100m to {:.2f} ustanowił go {}".format(9.5877, 'Usain Bolt'))
 ```
 Formatowanie tabelki z kursu dwoma sposobami:
+
 ![Format](./img/ss13.png)
 
 * Stary sposób - nadmiar wolnych znaków = wstawianie spacji od lewej strony
