@@ -168,6 +168,15 @@ Tab+Enter przechodzi do następnej linijki w konsoli :D
 
 * Stringi są niemutowalne = niezmienne.
 * Stringi mogą być raw = bez obsługi znaków specjalnych `txt = r"Nowe linie zapisujemy jako \n a tabulatory za pomocą \t"`
+* Lista - przechowywalnai różnych elementów ograniczonych przecinkiem. Możemy ją aktualizować.
+* Krotka - niezmienialna lista
+* Słownik - baza danych "klucz : wartość". Klucz musi być unikalny i niemutowalny.
+
+Można przypisywać kilka zmiennych na raz :O\
+Wystarczy wszystkie wypisać po kolei, a potem adekwatnie po znaku '=' wypisać wartości.\
+Co ciekawe - Python sam precyzuje typ wartości.
+
+Pora na zadania :D
 
 ## #5 - Edytujemy napisy
 
