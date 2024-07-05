@@ -10,6 +10,7 @@
 * [#5 - Edytujemy napisy](#5---edytujemy-napisy)
 * [#6 - Instrukcje warunkowe](#6---instrukcje-warunkowe)
 * [#7 - Pętla FOR](#7---pętla-for)
+* [#8 - Pętla WHILE](#8---pętla-while)
 
 ## #0 - Start
 Prosty skrypt z printem i inputem :D
@@ -235,3 +236,27 @@ Zadanie 4 - dość proste, wystarczyło zerknąć na poprzednie zadanie z serial
 Zadanie 5 - trzeba było sobie przypomnieć własności trójkotów i modulo :D
 
 ## #7 - Pętla FOR
+Pętla for kojarzy mi się z C++. Dużo zadań w nim przerabiałem w technikum :D\
+Tu jednak składnia się różni - zamiast wprowadzać 3 sekcje podajemy tylko zakres.\
+Bardziej mi to przypomina tworzenie pętel w twigach. Podajemy nazwę zmiennej dla każdego i-tego elementu w tablicy, albo podajemy zakres od jednego do drugiego elementu (np.: 3-14).\
+Ale można również iterować po wartości innej niż liczba - w sensie można podać string czy tupla.\
+```python
+for i in (1,2,3,4):
+    print("krok: ", i)
+
+for i in "ala ma kota":
+    print("krok: ", i)
+```
+
+Jak się okazuje, można też łatwo napisać pętlę w pętli:\
+```python
+for i in range(3):
+    for j in range(1, 6):
+        print(j * "#")
+```
+
+Zadanie 1 - i tu mnie już zjadło, ale się nie poddaję. I okazało się, że potrzebuję kolejnej, wcześniej zadeklarowanej zmiennej do sumy.
+Zadanie 2 - bardzo proste zadanie :D
+Zadanie 3 - w teorii trudne, w praktyce już nie :D Trzeba było przypomnieć sobie o metodzie split()
+Zadanie 4- 
+## #8 - Pętla WHILE
