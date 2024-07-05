@@ -211,6 +211,27 @@ Zadanie 1 - troszkę klopotów sprawił mi punkt, gdzie muszę wyświetlić jede
 Zadanie 2 - mimo posiłkowania się na końcu odpowiedzią przy liczeniu cyfr to i tak zrobiłem po swojemu :D\
 Zadanie 3 - posiłkowałem się przekonwertowaniem DNA na kod.
 ## #6 - Instrukcje warunkowe
+Teraz czas na warunki i operatory :D
 
+Można łączyć ze sobą operatory w ten sposób:\
+`x > 1 and x < 13 or x != 10`
+
+Dla x=10 jest to prawdą, gdyż mamy dwa wyrażenia spełnione - wyznacznikiem tego jest AND. Przy ADN oba wyrażenia muszą być prawdziwe. Drugie wyrażenie jest OR'em, dlatego przy tym wyrażeniu jedna strona może być fałszywa.
+
+Możemy także sprawdzać, czy coś jest w czymś lub coś jest czymś:\
+`x in [ 1, 12, 10 ]`\
+`x not is 10`\
+`'str' is 'string'`
+
+'is' nie jest równe '=='
+
+I mamy teraz if'a - coś co próbowałem wykorzystać w zadaniu z wycinaniem tekstu.\
+Większego problemu z pętlą nie mam, dlatego przejdźmy do zadań :D
+
+Zadanie 1 - nie wiem czy dobrze zrozumiałem, ale działa. Potem zerknę na odpowiedź.\
+Zadanie 2 - dodanie if'a do BMI.\
+Zadanie 3 - tu się posiłkowałem Paint'em :D Musiałem sobie poukładać sortowanie.\
+Zadanie 4 - dość proste, wystarczyło zerknąć na poprzednie zadanie z serialami.\
+Zadanie 5 - trzeba było sobie przypomnieć własności trójkotów i modulo :D
 
 ## #7 - Pętla FOR
