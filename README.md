@@ -178,6 +178,23 @@ Co ciekawe - Python sam precyzuje typ wartości.
 
 Pora na zadania :D
 
+Po zadaniach: cóż, z pierwszym miałem problem ze zrozumieniem, bo nie sądziłem, że po prostu chodzi o wypisanie zmiennych i przypisanie im wartości. Niepotrzebnie kombinowałem.\
+Drugie zadanie z kolei zrobiłem dobrze, ale sobie porównałem do odpowiedzi pani Rity - jest różnica. Zapomniałem o istnieniu formatów, a też nie wiedziałem, że mogę tak przypisał nowy element do słownika:
+
+```python
+#Wykonanie pani Rity:
+new = input('Jaki serial dodać do bazy? ')
+rating = input('Jaką ocenę otrzymał ' + new + '? ')
+serials[new] = float(rating)
+
+#Moje wykonanie:
+new = input("Teraz podaj swój serial \n")
+ocena = input("W skali od 1 do 10 na ile go oceniasz? \n")
+seriale = {"Arcane" : 9 , "ATLA" : 10, "Rick and Morty" : 8, new : ocena}
+
+#Nie spodziewałem się, że wystarczy po prosty "włożyć" nową zmienną i przypisać do niej wartość - ja po porstu skopiowałem listę i manualnie wkleiłem nowy serial z oceną
+```
+
 ## #5 - Edytujemy napisy
 
 
