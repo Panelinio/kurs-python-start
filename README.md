@@ -179,7 +179,7 @@ Co ciekawe - Python sam precyzuje typ wartości.
 Pora na zadania :D
 
 Po zadaniach: cóż, z pierwszym miałem problem ze zrozumieniem, bo nie sądziłem, że po prostu chodzi o wypisanie zmiennych i przypisanie im wartości. Niepotrzebnie kombinowałem.\
-Drugie zadanie z kolei zrobiłem dobrze, ale sobie porównałem do odpowiedzi pani Rity - jest różnica. Zapomniałem o istnieniu formatów, a też nie wiedziałem, że mogę tak przypisał nowy element do słownika:
+Drugie zadanie z kolei zrobiłem dobrze, ale sobie porównałem do odpowiedzi pani Rity - jest różnica.\ Zapomniałem o istnieniu formatów (zrobiłem o zadanie w większym odstępie czasowym od ostatniej lekcji), a też nie wiedziałem, że mogę tak przypisać nowy element do słownika:
 
 ```python
 #Wykonanie pani Rity:
