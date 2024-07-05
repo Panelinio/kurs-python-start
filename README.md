@@ -196,8 +196,20 @@ seriale = {"Arcane" : 9 , "ATLA" : 10, "Rick and Morty" : 8, new : ocena}
 ```
 
 ## #5 - Edytujemy napisy
+Teraz czas na głębsze omówienie stringów.
+
+Napis jest typem sekwencyjnym - zmienna może przechowywać wiele wartości.\
+Poza tym mamy dostęp do każdego elementu napisu.
+
+![Zabawa napisami](./img/ss15.png)
+
+Do napisówm można użyc metod, aby przykładowo tekst był napisany dużymi lub małymi literami, albo aby pokazać jego długość czy nawet sprawdzić pewne parametry.
 
 
+Pora na zadania :D\
+Zadanie 1 - troszkę klopotów sprawił mi punkt, gdzie muszę wyświetlić jeden wyraz, ale obszedłem to wycinaniem.\
+Zadanie 2 - mimo posiłkowania się na końcu odpowiedzią przy liczeniu cyfr to i tak zrobiłem po swojemu :D\
+Zadanie 3 - posiłkowałem się przekonwertowaniem DNA na kod.
 ## #6 - Instrukcje warunkowe
 
 
