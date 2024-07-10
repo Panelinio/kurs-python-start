@@ -261,4 +261,39 @@ Zadanie 3 - w teorii trudne, w praktyce już nie :D Trzeba było przypomnieć so
 Zadanie 4 - tu musiałem pozmieniać trochę kolejność w pierwszej wersji programu, ale wszystko działa super\
 Zadanie 5 - program działa, ale na poczatku drukuje się jeden, samotny hasztag. Naprawiłem to deklraując jedną zmienną na początku i inkrementując ją po wykonanej pętli\
 Zadanie 6 - mam problem aby wydrukować pętle tak, aby wykonywała się na jednej linii tabelki. Rozwiązaniem okazało się użycie `print(i,"|  ", end="")`. Dodałem również formułki gdy liczby są większe od 10, aby wszystko się równo drukowało.
+
 ## #8 - Pętla WHILE
+Ostatni wpis na blogu :D
+
+While póki co opiera się na zasadzie "wykonuj się póki nie spełni się ten warunek".\
+Można to uogólnić do wykorzystania "licznika". Po każdym wykonaniu pętli licznik się zwiększa o jeden. A warunkiem będzie wartość licznika, który musi być różny od zadekalrowanej liczby.
+
+Co warto wiedzieć - w Pyhtonie nie istnieje pętla do while.
+
+Można łątwo zrobić nieskończoną pętlę:
+
+```python
+while True:
+    print("Hello World!")
+```
+
+Dla funkcji while i for istnieją formuły break i continue
+
+Break - kończy pętlę\
+Continue - zatrzymuje się, pomija iterację i sprawdza ponownie warunek
+
+Pora na zadania :D
+
+Zadanie 1 - przeróbka zadania z poprzedniej lekcji, ale przypadkiem udało mi się zrobić nieskończoną pętlę ^^'\
+Zadanie 2 - znowu pryzpadkiem zrobiłem infinity loop'a, ale udało się\
+Zadanie 3 - szybka przeróbka poprzedniego zadania\
+Zadanie 4 - trochę główkowałem nad tym jak zapisać silnię, ale odkryłem zapis `a *= b`\
+Zadanie 5 - musiałem poczytać jak pomieszać element listy, ale znalazłem odpowiednią formułkę\
+
+### Przemyślenia po kursie:
+Kurs przygotowany przez Panią Ritę jest niesamowicie beginner-friendly.\
+Dzięki niemu przypomniałem sobie pętle czy typy danych, oraz zostałem mile oprowadzony po podstawach jak korzystać z Pythona :D\
+Na plus zasługuje aktualizowanie kursów przez Panią Ritę, dzięki czemu "jesteśmy na czasie".\
+Oczywiście nie wszystko zostało omówione, ale jest to wiedza dla bardziej ciekawskich.\
+Nic jednak nie zostało wspomniane o zakończeniu kursu, dlatego trzymam kciuki aby został on rozszerzony :D\
+Poza tym na blogu flynerd.pl znajdują się również dodatkowe zadania dla bardziej ambitnych - chętnie na nie spojrzę ^^
