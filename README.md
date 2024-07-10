@@ -255,8 +255,10 @@ for i in range(3):
         print(j * "#")
 ```
 
-Zadanie 1 - i tu mnie już zjadło, ale się nie poddaję. I okazało się, że potrzebuję kolejnej, wcześniej zadeklarowanej zmiennej do sumy.
-Zadanie 2 - bardzo proste zadanie :D
-Zadanie 3 - w teorii trudne, w praktyce już nie :D Trzeba było przypomnieć sobie o metodzie split()
-Zadanie 4- 
+Zadanie 1 - i tu mnie już zjadło, ale się nie poddaję. I okazało się, że potrzebuję kolejnej, wcześniej zadeklarowanej zmiennej do sumy.\
+Zadanie 2 - bardzo proste zadanie :D\
+Zadanie 3 - w teorii trudne, w praktyce już nie :D Trzeba było przypomnieć sobie o metodzie split()\
+Zadanie 4 - tu musiałem pozmieniać trochę kolejność w pierwszej wersji programu, ale wszystko działa super\
+Zadanie 5 - program działa, ale na poczatku drukuje się jeden, samotny hasztag. Naprawiłem to deklraując jedną zmienną na początku i inkrementując ją po wykonanej pętli\
+Zadanie 6 - mam problem aby wydrukować pętle tak, aby wykonywała się na jednej linii tabelki. Rozwiązaniem okazało się użycie `print(i,"|  ", end="")`. Dodałem również formułki gdy liczby są większe od 10, aby wszystko się równo drukowało.
 ## #8 - Pętla WHILE
